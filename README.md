@@ -1,2 +1,2 @@
 # gitexample
-example
+This is a git pull request example
